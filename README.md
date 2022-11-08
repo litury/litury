@@ -1,5 +1,4 @@
-### My name is Yury 👋 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=litury.visitor-badge&left_text=My%20Page%20Visitors)  ![codrwars](https://www.codewars.com/users/litury/badges/micro) 
+### My name is Yury 👋 ![codrwars](https://www.codewars.com/users/litury/badges/micro) 
 
 
 <!--START_SECTION:waka-->
